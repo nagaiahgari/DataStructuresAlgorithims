@@ -3,7 +3,9 @@ package com.balajisoft.dsa;
 import java.util.Stack;
 
 /**
- * Hello world!
+ * Balaji Nagaiahgari 
+ * 
+ * Modified Date : 04-DEC-2024
  *
  */
 public class StackExample 
